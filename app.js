@@ -1,3 +1,3 @@
-var problem = require('./ProjectEuler/problem2.js');
+var problem = require('./ProjectEuler/problem3.js');
 
 problem.run();
